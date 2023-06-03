@@ -1,1 +1,1 @@
-# LoanPredictor
+This project implements a loan predictor using Support Vector Machines (SVM) algorithm. The goal of the project is to predict whether a loan application will be approved or rejected based on various input features. The project uses a dataset obtained from Kaggle, which consists of historical loan application data. The dataset contains information about the loan applicants, such as their income, credit history, dependencies, education, loan amount, and loan approval status. The link for the dataset: https://www.kaggle.com/datasets/ninzaami/loan-predication
